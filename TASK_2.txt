@@ -1,0 +1,2 @@
+I chose Hexapod project because I found it interesting to integrate physics with creation of robot. I also found it challenging to design such a robot so I am eager to learn and explore the practical application of physics by contributing in the project. 
+Next, I opted for the StepXlorer project, as I admire how tracked wheels function and am eager to learn more about them. Additionally, the idea of a robot capable of climbing stairs or performing well in rough terrain is intriguing, and I am excited to explore this aspect of robotics.
