@@ -14,4 +14,5 @@ Control logics like when IR sensor detects a vertical surface, the robot should 
 
 
 
-![Stair_Climbing_Robot](https://github.com/user-attachments/assets/07bb4861-3799-4134-8038-112a2373fe60)
+![Stair_Climbing_Robot](https://github.com/user-attachments/assets/f193b924-7d1e-49ab-9bb0-a69daaeb6093)
+
