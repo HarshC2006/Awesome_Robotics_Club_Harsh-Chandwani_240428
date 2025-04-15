@@ -1,1 +1,3 @@
-
+To solve the given inverse kinematics problem, I began by projecting the distance onto the X-Y plane to calculate the angle alpha. Next, I focused on the side view of the robot to find the remaining angles. By applying certain trignometric formulas, finally I was able to compute all the necessary joint angles.
+In the code, I have assumed the origin to be at the top of the leg. However, depending on specific requirements, this assumption can be adjusted.
+The inverse_kinematics function takes the coordinates of the hexapod leg's foot as input and directly applies the formulas I derived to calculate the joint angles. Then it checks whether any of the angle goes out of domain ,i.e. , whether the set of coordinates go out of reach for the leg. Based on the calculated angles, it prints the set of angles or return the program with an error message.
